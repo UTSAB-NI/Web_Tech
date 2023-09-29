@@ -1,0 +1,9 @@
+Web Tech Assignment 5
+1. How external CSS can be inserted in an HTML document?Explain with an example.
+2. Define CSS selectors. Compare ID selector with class selector.
+3. How can you insert inline CSS stylesheet in HTML document. Explain with example.
+4. How can a webpage be made responsive using media query? Explain with an example.
+5. Write an HTML script containing medua query for changing the background color of HTML page to 
+	-red if viewport is between 800-1210 pixels	
+	-yellow if viewport is between 400-700 pixels
+	-blue if viewport is less than 300 pixels

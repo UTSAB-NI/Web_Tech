@@ -1,0 +1,1 @@
+Write java script program to implement different event available in javascript program

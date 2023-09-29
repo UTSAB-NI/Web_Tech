@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="myxsl.xsl"?>
+
+<Class>
+    <student id="01">
+        <name>Utsab</name>
+        <address>Kirtipur</address>
+        <gender>Male</gender>
+    </student>
+    <student id="02">
+        <name>Sankapla</name>
+        <address>Baneshwor</address>
+        <gender>male</gender>
+    </student>
+</Class>

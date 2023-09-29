@@ -1,0 +1,1 @@
+write an xml script to resolve name conflict that occur inside xml element 

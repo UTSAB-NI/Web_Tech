@@ -1,0 +1,31 @@
+#green,#yellow,#red{
+    display:none;
+}
+@media(max-width: 1200px)and (min-width: 800px){
+    body{
+        background-color: red;
+
+    }
+    #red{
+        display:block;
+    }
+}
+
+@media(max-width: 799px)and (min-width: 500px){
+    body{
+        background-color:yellow;
+    }
+    #yellow{
+        display:block;
+    }
+}
+
+@media(max-width: 499px){
+    body{
+        background-color:green;
+    }
+    #green{
+        display:block;
+    }
+}
+

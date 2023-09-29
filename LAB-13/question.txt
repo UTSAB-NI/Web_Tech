@@ -1,0 +1,2 @@
+Lab 12
+write an xml dtd to describe person as a root element and name, address, phone nu, age and gender as a child element.
